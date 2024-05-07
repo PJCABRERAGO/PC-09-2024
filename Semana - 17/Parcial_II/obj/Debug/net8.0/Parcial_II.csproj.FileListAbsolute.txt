@@ -1,0 +1,14 @@
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.AssemblyInfoInputs.cache
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.AssemblyInfo.cs
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.csproj.CoreCompileInputs.cache
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\bin\Debug\net8.0\Parcial_II.exe
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\bin\Debug\net8.0\Parcial_II.deps.json
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\bin\Debug\net8.0\Parcial_II.runtimeconfig.json
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\bin\Debug\net8.0\Parcial_II.dll
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\bin\Debug\net8.0\Parcial_II.pdb
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.dll
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\refint\Parcial_II.dll
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.pdb
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\Parcial_II.genruntimeconfig.cache
+C:\Users\pjcg1\Desktop\URL\Pensamiento Computacional Teoria\Parcial_II\obj\Debug\net8.0\ref\Parcial_II.dll
